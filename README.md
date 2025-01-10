@@ -10,5 +10,6 @@
 
 - **Start the Server:**
   ```bash
+  node i
   node index.js
   ```
